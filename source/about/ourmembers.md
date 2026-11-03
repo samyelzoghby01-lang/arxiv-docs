@@ -1,4 +1,4 @@
-# Our Members
+https://github.com/arXiv/arxiv-docs/blob/32bb8ca8f87e58266a63d95ce78d38262084f1ec/source/about/ourmembers.md# Our Members
 
 We are so thankful for our members – arXiv would not be possible without their support. arXiv members are universities, research labs, libraries, and consortia that contribute funding to arXiv to help advance the cause of open science.
 {.intro}
